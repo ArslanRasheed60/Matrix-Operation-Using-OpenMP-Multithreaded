@@ -3,7 +3,7 @@
 - First you need to setup OpenMP
 - After that run code directly
 
-# here is the problem statement
+# Here is the problem statement
 Write a multithreaded program using ‘OpenMP’ to perform matrix operations as instructed below. You
 will perform Data Decomposition as well as task decomposition. Your program should provide the
 following functionality. You can paste your code in this document. Teaching assistant can ask any student
